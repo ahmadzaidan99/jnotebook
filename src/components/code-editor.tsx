@@ -1,4 +1,4 @@
-import MonacoEditor from '@monaco-editor/react';
+import MonacoEditor from "@monaco-editor/react";
 
 const CodeEditor = () => {
   return (
@@ -7,7 +7,7 @@ const CodeEditor = () => {
       language="javascript"
       height="500px"
       options={{
-        wordWrap: 'on',
+        wordWrap: "on",
         minimap: { enabled: false },
         showUnused: false,
         folding: false,
