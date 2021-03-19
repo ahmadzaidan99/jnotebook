@@ -24,3 +24,4 @@ yarn-error.log*
 
 git rm -rf --cached .eslintcache
 git add .
+.eslintcache
